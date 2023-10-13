@@ -1,2 +1,2 @@
 # odin-recipes
-I learned the basics of html and with this project, I will make a basic recipe website utilizing html.
+This is a toy recipes website that reflects the start of my learning of html and websites. 
