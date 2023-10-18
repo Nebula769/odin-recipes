@@ -1,0 +1,29 @@
+.ingred {
+    color:darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p1 {
+    color:deeppink;
+    font-size: large;
+    
+}
+
+.olist  li {
+    color:rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.olist2 li {
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p2 {
+    color: darkgoldenrod;
+}
+
+.stepsLas li {
+    color:darkolivegreen
+}
